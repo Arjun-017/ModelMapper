@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TestApplication/1.0.0": {
+        "dependencies": {
+          "QuickMapper.Common": "1.0.0",
+          "SlowMapper": "1.0.0"
+        },
+        "runtime": {
+          "TestApplication.dll": {}
+        }
+      },
+      "QuickMapper.Common/1.0.0": {
+        "runtime": {
+          "QuickMapper.Common.dll": {}
+        }
+      },
+      "SlowMapper/1.0.0": {
+        "runtime": {
+          "SlowMapper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuickMapper.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SlowMapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

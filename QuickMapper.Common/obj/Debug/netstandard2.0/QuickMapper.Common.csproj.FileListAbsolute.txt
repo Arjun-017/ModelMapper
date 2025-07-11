@@ -1,0 +1,10 @@
+D:\.net\Mapper\QuickMapper.Common\bin\Debug\netstandard2.0\QuickMapper.Common.deps.json
+D:\.net\Mapper\QuickMapper.Common\bin\Debug\netstandard2.0\QuickMapper.Common.dll
+D:\.net\Mapper\QuickMapper.Common\bin\Debug\netstandard2.0\QuickMapper.Common.pdb
+D:\.net\Mapper\QuickMapper.Common\obj\Debug\netstandard2.0\QuickMapper.Common.csproj.AssemblyReference.cache
+D:\.net\Mapper\QuickMapper.Common\obj\Debug\netstandard2.0\QuickMapper.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Mapper\QuickMapper.Common\obj\Debug\netstandard2.0\QuickMapper.Common.AssemblyInfoInputs.cache
+D:\.net\Mapper\QuickMapper.Common\obj\Debug\netstandard2.0\QuickMapper.Common.AssemblyInfo.cs
+D:\.net\Mapper\QuickMapper.Common\obj\Debug\netstandard2.0\QuickMapper.Common.csproj.CoreCompileInputs.cache
+D:\.net\Mapper\QuickMapper.Common\obj\Debug\netstandard2.0\QuickMapper.Common.dll
+D:\.net\Mapper\QuickMapper.Common\obj\Debug\netstandard2.0\QuickMapper.Common.pdb

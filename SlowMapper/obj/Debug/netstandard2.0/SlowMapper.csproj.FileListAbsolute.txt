@@ -1,0 +1,10 @@
+D:\.net\Mapper\SlowMapper\bin\Debug\netstandard2.0\SlowMapper.deps.json
+D:\.net\Mapper\SlowMapper\bin\Debug\netstandard2.0\SlowMapper.dll
+D:\.net\Mapper\SlowMapper\bin\Debug\netstandard2.0\SlowMapper.pdb
+D:\.net\Mapper\SlowMapper\obj\Debug\netstandard2.0\SlowMapper.csproj.AssemblyReference.cache
+D:\.net\Mapper\SlowMapper\obj\Debug\netstandard2.0\SlowMapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Mapper\SlowMapper\obj\Debug\netstandard2.0\SlowMapper.AssemblyInfoInputs.cache
+D:\.net\Mapper\SlowMapper\obj\Debug\netstandard2.0\SlowMapper.AssemblyInfo.cs
+D:\.net\Mapper\SlowMapper\obj\Debug\netstandard2.0\SlowMapper.csproj.CoreCompileInputs.cache
+D:\.net\Mapper\SlowMapper\obj\Debug\netstandard2.0\SlowMapper.dll
+D:\.net\Mapper\SlowMapper\obj\Debug\netstandard2.0\SlowMapper.pdb
