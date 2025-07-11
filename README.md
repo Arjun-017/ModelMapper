@@ -5,5 +5,6 @@ This repository demonstrates two approaches to object-to-object mapping in .NET:
  - Source Generator-based Mapper – leverages compile-time code generation for fast and type-safe mapping.
    
 # Results
-Time ellapsed for quick mapping - 0.686 ms
-Time ellapsed for slow mapping - 6.6165 ms
+Time ellapsed for quick mapping - <b>0.686</b> ms
+
+Time ellapsed for slow mapping - <b>6.6165</b> ms
